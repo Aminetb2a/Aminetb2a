@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # 👨‍💻 About Me
-I am a Junior backend developer at the beginning of the journey, focused on applying the principles of engineering to software development. <br>Strong in design and integration with intuitive problem-solving skills, passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. <br>Looking to forward the career as a Sr. Backend developer in a software company that thrives on creativity and customer oriented values.
+I am a Junior backend developer at the beginning of the journey, focused on applying the principles of engineering to software development.
+<br>Strong in design and integration with intuitive problem-solving skills, passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+<br>Looking to forward my career as a Sr. Backend developer in a software company that thrives on creativity and customer-oriented values.
+
 
 ---
 <!--
