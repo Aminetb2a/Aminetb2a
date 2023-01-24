@@ -3,8 +3,9 @@
 
 <h1 align="center">Hi 👋 there, I'm Amine</h1> 
 
-<br>
-# 👨‍💻 About Me
+
+ 
+<h2 align="center"> 👨‍💻 About Me </h2>
 
 
 I am a Junior backend developer at the beginning of the journey, focused on applying the principles of engineering to software development.
