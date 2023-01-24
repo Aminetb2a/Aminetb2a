@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋 there, I'm Amine</h1> 
 
-
+<br>
 # 👨‍💻 About Me
 
 
@@ -14,7 +14,9 @@ Strong in design and integration with intuitive problem-solving skills, passiona
 Looking to forward my career as a Sr. Backend developer in a software company that thrives on creativity and customer-oriented values.
 
 
-# 💻 Tech Stack
+------
+
+<h2 align="center"> 💻 Tech Stack</h2> 
 
 <img align="right" alt="coding" width="500" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif">
 
@@ -48,16 +50,26 @@ Looking to forward my career as a Sr. Backend developer in a software company th
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
-# 📈 GitHub Stats
+----
+
+<h2 align="center"> 📈 GitHub Stats</h2> 
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminetb2a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aminetb2a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aminetb2a&theme=tokyonight&hide_border=true"></p>
 
+----
 
-## 🏆 GitHub Trophies
+<h2 align="center"> 🏆 GitHub Trophies</h2> 
+
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Aminetb2a&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"></p>
 
-### ✍️ Random Dev Quote
+
+----
+
+<h2 align="center"> ✍️ Random Dev Quote</h2> 
+
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
