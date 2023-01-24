@@ -1,42 +1,22 @@
-### Hi there 👋
 
-<!--
-**Aminetb2a/Aminetb2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ1.gif)
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋 there, I'm Amine</h1> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 📊
--->
 
 # 👨‍💻 About Me
+
+
 I am a Junior backend developer at the beginning of the journey, focused on applying the principles of engineering to software development.
-<br>Strong in design and integration with intuitive problem-solving skills, passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
-<br>Looking to forward my career as a Sr. Backend developer in a software company that thrives on creativity and customer-oriented values.
 
+Strong in design and integration with intuitive problem-solving skills, passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
----
-<!--
-### 🧰 Languages and Tools
+Looking to forward my career as a Sr. Backend developer in a software company that thrives on creativity and customer-oriented values.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
--->
 
 # 💻 Tech Stack
+
+<img align="right" alt="coding" width="500" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif">
 
 #### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -69,17 +49,15 @@ I am a Junior backend developer at the beginning of the journey, focused on appl
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
 # 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Aminetb2a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aminetb2a&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminetb2a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminetb2a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aminetb2a&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aminetb2a&theme=tokyonight&hide_border=true"></p>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aminetb2a&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Aminetb2a&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Aminetb2a&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
