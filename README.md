@@ -76,8 +76,6 @@ I am a Junior backend developer at the beginning of the journey. <br>Focused on 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aminetb2a&icon=0&color=0)](https://visitcount.itsvg.in)
